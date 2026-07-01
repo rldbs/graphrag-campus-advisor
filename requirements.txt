@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+pypdf
+langchain
+langchain-community
+langchain-openai
+chromadb
+sentence-transformers
+neo4j
+pandas
+scikit-learn
